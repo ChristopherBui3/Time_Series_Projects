@@ -24,3 +24,4 @@ In the end, a log transformation of the original data with the parameters ARIMA(
 - https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials
 - https://en.wikipedia.org/wiki/Box%E2%80%93Jenkins_method
 - https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+- https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
