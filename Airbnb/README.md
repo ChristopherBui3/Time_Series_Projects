@@ -22,3 +22,4 @@ In the end, a log transformation of the original data with the parameters ARIMA(
 
 - https://people.duke.edu/~rnau/411arim.htm
 - https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials
+- https://en.wikipedia.org/wiki/Box%E2%80%93Jenkins_method
